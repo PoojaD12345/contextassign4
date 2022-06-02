@@ -1,0 +1,32 @@
+{
+    "Products":[
+        {
+            "name" : "SmartPhone",
+            "price": 30,
+            "id" : 0,
+            "imgurl":"https://m-cdn.phonearena.com/images/article/90678-wide-two_1200/Best-mid-range-affordable-flagship-phones-in-2022.jpg",
+            "moredetails":121
+        },
+        {
+            "name" : "Watch",
+            "price" : 20,
+            "id" : 1,
+            "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfoAvjjDWWiZRrENDRG45rKvksDZxEdBUlDS1EZn3CJ7dXqWyFQxdJaj3E58VOt-mNg2Y&usqp=CAU",
+            "moredetails":121
+        },
+        {
+            "name" : "Shirt",
+            "price" : 50,
+            "id" : 2,
+            "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjROpu92hkDzayjDl5Z3Hd9AVTjN18O6xStkwi0nV8LpXH3P8RYAwbm9L_7QYGzugOdPU&usqp=CAU",
+            "moredetails":121
+        },
+        {
+            "name" : "Pants",
+            "price" : 100,
+            "id" : 3,
+            "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRLvGsYvz-pnUAVr3uB9fMv22DV3V2kmMO30bN05Rv4_BPeSTDPlsA_2OPF_PDGhag2A&usqp=CAU",
+            "moredetails":121
+        }
+    ]
+}
